@@ -1,7 +1,7 @@
 <img align="right" src="octocat-1756813557337.png" width="280">
 
 
-### Hi there 👋 I am Katja Kozjek, 
+### Hi there 👋 I am Katja, 
 
 a bioinformatician at the National Bioinformatics Infrastructure Sweden (NBIS).
 

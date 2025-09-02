@@ -1,4 +1,9 @@
-## Hi there 👋
+<img align="right" src="octocat-1756813557337.png" width="280">
+
+
+### Hi there 👋 I am Katja Kozjek, 
+
+a bioinformatician at the National Bioinformatics Infrastructure Sweden (NBIS).
 
 <!--
 **KatjaKo/KatjaKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

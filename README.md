@@ -5,6 +5,9 @@
 
 a bioinformatician at the National Bioinformatics Infrastructure Sweden (NBIS).
 
+I support researchers in bioinformatics by performing data analyses and providing training.
+I primarily work with metagenomic and metatranscriptomic data from various environments, including soil, gut, and oral microbiomes.
+
 <!--
 **KatjaKo/KatjaKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

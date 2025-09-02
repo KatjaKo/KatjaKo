@@ -1,14 +1,14 @@
-## Hi there 👋 I am Katja Kozjek, 
-
-a bioinformatician at the National Bioinformatics Infrastructure Sweden (NBIS).
-
-I support researchers in bioinformatics by performing data analyses and providing training.
-
-I primarily work with metagenomic and metatranscriptomic data from various environments, including soil, gut, and oral microbiomes.
-
 <img align="right" src="octocat-1756813557337.png" width="280">
 
 
+### Hi there 👋 I am Katja Kozjek, 
+
+a bioinformatician at the National Bioinformatics Infrastructure Sweden (NBIS).
+
+
+I support researchers in bioinformatics by performing data analyses and providing training.
+
+Mainly, I focus on analyzing metagenomic and metatranscriptomic data from diverse environments, including soil, gut, and oral microbiomes
 
 
 <p align="center">
